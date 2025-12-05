@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="temp.png" width="220" alt="Transfer Bot Logo">
+</p>
 
 ------------------------------------------------------------------------
 
