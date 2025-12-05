@@ -27,7 +27,7 @@ import uuid
 from urllib.parse import urlparse
 
 # Constants
-TELEGRAM_TOKEN = '8115997157:AAFRgrLtALTZkYe-0CHfNvO8Ax2xlKltz7U'
+TELEGRAM_TOKEN = 'bot_token_form_bot_father'
 DROPBOX_ACCESS_TOKEN = None
 TEMP_DOWNLOAD_DIR = 'temp_downloads'
 CHUNK_SIZE = 8 * 1024 * 1024  # 4MB for Dropbox upload chunks
