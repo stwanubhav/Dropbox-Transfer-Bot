@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 
-Send any Google Drive or file URL --- bot will auto transfer to Dropbox!
+Send any Google Drive or any file URL --- bot will auto transfer to Dropbox!
 
 ### Commands:
 
