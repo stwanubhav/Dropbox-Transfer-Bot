@@ -91,3 +91,22 @@ Login using your Google account.
 **⚠️ In Production apps, additional verification may be required.**
 
 -----------------------------------------------------------------------------
+
+✅ Step 5 — Create OAuth Client ID Credentials
+
+1.Go to:
+       
+       APIs & Services → Credentials
+2.Click 'Create Credentials'.
+
+3.Select OAuth 'Client ID'.
+
+4.Application type → Desktop App.
+
+5.Enter any name → Click Create.
+
+------------------------------------------------------------------------------
+
+🎉 Step 6 — Download Credentials JSON
+
+✔ Click Download.
